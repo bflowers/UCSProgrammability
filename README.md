@@ -30,9 +30,9 @@ UCS PowerTool and the Python SDK are built on top of the UCS Management open XML
 
 ### UCS Emulator
 
-The *UCS Platform Emulator 3.1* provides developers their own UCS system, so they don't have to work on systems in production. The UCS Platform Emulator is built on the same as the actual product. Code that is written against the emulator works with UCS Manager.
+The [UCS Platform Emulator 3.1](https://communities.cisco.com/docs/DOC-66688 "Title") provides developers their own UCS system, so they don't have to work on systems in production. The UCS Platform Emulator is built on the same as the actual product. Code that is written against the emulator works with UCS Manager.
 
-The emulator also has the complete *UCS Manager Object Model Documentation*. The Object Model Documentation has all of the classes, methods, faults, syslog messages, and more. Another benefit is that one or more UCS Platform Emulators can be registered to *UCS Central*, to truly represent a real UCS deployment. The UCS Platform emulator is an integral part of the offerings at Cisco dCloud, for example the [Application Policy Infrastructure Controller 1.2 with Cisco CloudCenter 4.5 v1](https://dcloud-cms.cisco.com/?p=23113 "Title"), dCloud offering utilizes the 3.1 UCS Platform Emulator.
+The emulator also has the complete *UCS Manager Object Model Documentation*. The Object Model Documentation has all of the classes, methods, faults, syslog messages, and more. Another benefit is that one or more UCS Platform Emulators can be registered to *UCS Central*, to truly represent a real UCS deployment. The UCS Platform emulator is an integral part of the offerings at Cisco dCloud, for example the [Application Policy Infrastructure Controller 1.2 with Cisco CloudCenter 4.5 v1](https://dcloud-cms.cisco.com/?p=23113 "Title"), dCloud offering utilizes the 3.1 UCS Platform Emulator.
 
 ### Free Tools and Community Support
 
@@ -40,6 +40,6 @@ The *UCSX PowerTool Suite 2.X*, the *Python UCS Manager SDK*, the *Python UCS IM
 
 ### UCS Central
 
-[UCS Central](http://www.cisco.com/c/en/us/td/docs/unified_computing/ucs/release/notes/RN-CiscoUCSCentral_1-4.html "Title") was recently updated with a significant number of new capabilities, an HTML5 interface and a new task based orientation. Even customers with only one UCS system should be using UCS Central. UCS management over multiple UCS systems through UCS Central is programmable and automated as the other UCS management options via [UCS Central PowerTool](http://www.cisco.com/c/en/us/td/docs/unified_computing/ucs/sw/msft_tools/UCS_Central/powertools/user_guide/ucsc_pwrtool_ug_2x.html "Title") or the [UCS Central XML API](http://www.cisco.com/c/en/us/products/servers-unified-computing/ucs-central-software/index.html "Title").
+[UCS Central](http://www.cisco.com/c/en/us/td/docs/unified_computing/ucs/release/notes/RN-CiscoUCSCentral_1-4.html "Title") was recently updated with a significant number of new capabilities, an HTML5 interface and a new task based orientation. Even customers with only one UCS system should be using UCS Central. UCS management over multiple UCS systems through UCS Central is programmable and automated as the other UCS management options via [UCS Central PowerTool](http://www.cisco.com/c/en/us/td/docs/unified_computing/ucs/sw/msft_tools/UCS_Central/powertools/user_guide/ucsc_pwrtool_ug_2x.html "Title") or the [UCS Central XML API](http://www.cisco.com/c/en/us/products/servers-unified-computing/ucs-central-software/index.html "Title").
 
 PowerShell, Python, the emulator, and all Cisco UCS products provide the advantage of programmatic capabilities the UCS management options have to offer.
